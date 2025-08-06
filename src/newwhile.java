@@ -8,7 +8,7 @@ public class newwhile {
             System.out.println(i);
             a=b;
             b=b+a;
-            System.out.println(a);
+            System.out.println(a+ "");
         }
 
 
